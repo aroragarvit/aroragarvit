@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The idea of ourselves is our escape from the fact of what we really are.</span></b><br><br><i> - Jiddu Krishnamurti</i></div>
-<br><br><kbd>Last updated:Fri Jul 22 12:37:42 2022</kbd>
+<div align="center"><b><span>You don't have to be great to start, but you have to start to be great.  </span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Sat Jul 23 12:39:57 2022</kbd>
