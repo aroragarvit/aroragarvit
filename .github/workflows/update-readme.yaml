@@ -1,0 +1,24 @@
+name: update-readme
+on:
+  schedule:
+    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
+jobs:
+    build-and-deploy:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: copy dir
+              uses: actions/checkout@master
+              with:
+                  fetch-depth: 1
+
+            - name: modify readme
+              run: |
+                  python3 update.py 
+            - name: deploy
+              run: |
+                  git config user.name "${GITHUB_ACTOR}"
+                  git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+                  git add .
+                  git commit -m "Update - ${GITHUB_RUN_NUMBER}"
+                  git push --all -f https://${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git
