@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Originality is the fine art of remembering what you hear but forgetting where you heard it. </span></b><br><br><i> - Laurence J. Peter</i></div>
-<br><br><kbd>Last updated:Sun Jul 24 12:40:48 2022</kbd>
+<div align="center"><b><span>The quality, not the longevity, of one's life is what is important.</span></b><br><br><i> - Martin Luther King, Jr.</i></div>
+<br><br><kbd>Last updated:Mon Jul 25 12:49:19 2022</kbd>
