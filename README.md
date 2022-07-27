@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.</span></b><br><br><i> - Norman Vincent Peale</i></div>
-<br><br><kbd>Last updated:Tue Jul 26 12:48:32 2022</kbd>
+<div align="center"><b><span>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</span></b><br><br><i> - Ming-Dao Deng</i></div>
+<br><br><kbd>Last updated:Wed Jul 27 12:51:20 2022</kbd>
