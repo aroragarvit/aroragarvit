@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.</span></b><br><br><i> - Ming-Dao Deng</i></div>
-<br><br><kbd>Last updated:Wed Jul 27 12:51:20 2022</kbd>
+<div align="center"><b><span>The glow of one warm thought is to me worth more than money.</span></b><br><br><i> - Thomas Jefferson</i></div>
+<br><br><kbd>Last updated:Thu Jul 28 12:52:10 2022</kbd>
