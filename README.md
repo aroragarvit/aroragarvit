@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Things do not have meaning. We assign meaning to everything.</span></b><br><br><i> - Tony Robbins</i></div>
-<br><br><kbd>Last updated:Tue Aug  2 12:50:35 2022</kbd>
+<div align="center"><b><span>Greatest success comes just one step beyond the point at which defeat overtakes you.</span></b><br><br><i> - Unknown</i></div>
+<br><br><kbd>Last updated:Wed Aug  3 12:49:13 2022</kbd>
