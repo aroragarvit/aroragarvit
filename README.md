@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>True love stories never have endings.</span></b><br><br><i> - Richard Bach</i></div>
-<br><br><kbd>Last updated:Thu Aug  4 12:46:28 2022</kbd>
+<div align="center"><b><span>We have to live life with a sense of urgency so not a minute is wasted.</span></b><br><br><i> - Les Brown</i></div>
+<br><br><kbd>Last updated:Fri Aug  5 12:48:59 2022</kbd>
