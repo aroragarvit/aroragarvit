@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We have to live life with a sense of urgency so not a minute is wasted.</span></b><br><br><i> - Les Brown</i></div>
-<br><br><kbd>Last updated:Fri Aug  5 12:48:59 2022</kbd>
+<div align="center"><b><span>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</span></b><br><br><i> - Tony Robbins</i></div>
+<br><br><kbd>Last updated:Sat Aug  6 12:38:02 2022</kbd>
