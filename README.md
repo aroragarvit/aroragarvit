@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</span></b><br><br><i> - Roy T. Bennett</i></div>
-<br><br><kbd>Last updated:Sun Aug  7 12:38:48 2022</kbd>
+<div align="center"><b><span>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</span></b><br><br><i> - Socrates</i></div>
+<br><br><kbd>Last updated:Mon Aug  8 12:48:24 2022</kbd>
