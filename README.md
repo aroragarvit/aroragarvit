@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</span></b><br><br><i> - Socrates</i></div>
-<br><br><kbd>Last updated:Mon Aug  8 12:48:24 2022</kbd>
+<div align="center"><b><span>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</span></b><br><br><i> - Henry David Thoreau</i></div>
+<br><br><kbd>Last updated:Tue Aug  9 12:51:31 2022</kbd>
