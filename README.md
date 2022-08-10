@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</span></b><br><br><i> - Henry David Thoreau</i></div>
-<br><br><kbd>Last updated:Tue Aug  9 12:51:31 2022</kbd>
+<div align="center"><b><span>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</span></b><br><br><i> - Richard Bach</i></div>
+<br><br><kbd>Last updated:Wed Aug 10 12:43:56 2022</kbd>
