@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>I do not exist to impress the world. I exist to live my life in a way that will make me happy.</span></b><br><br><i> - Richard Bach</i></div>
-<br><br><kbd>Last updated:Wed Aug 10 12:43:56 2022</kbd>
+<div align="center"><b><span>The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.</span></b><br><br><i> - Helen Keller</i></div>
+<br><br><kbd>Last updated:Thu Aug 11 12:49:01 2022</kbd>
