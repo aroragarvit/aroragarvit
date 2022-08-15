@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</span></b><br><br><i> - Peter Drucker</i></div>
-<br><br><kbd>Last updated:Sun Aug 14 12:39:39 2022</kbd>
+<div align="center"><b><span>Make improvements, not excuses. Seek respect, not attention.</span></b><br><br><i> - Roy T. Bennett</i></div>
+<br><br><kbd>Last updated:Mon Aug 15 12:49:34 2022</kbd>
