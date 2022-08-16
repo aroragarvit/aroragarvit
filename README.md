@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Make improvements, not excuses. Seek respect, not attention.</span></b><br><br><i> - Roy T. Bennett</i></div>
-<br><br><kbd>Last updated:Mon Aug 15 12:49:34 2022</kbd>
+<div align="center"><b><span>Whatever your mind can conceive and believe, it can achieve.</span></b><br><br><i> - Napoleon Hill</i></div>
+<br><br><kbd>Last updated:Tue Aug 16 12:41:30 2022</kbd>
