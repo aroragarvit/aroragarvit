@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Whatever your mind can conceive and believe, it can achieve.</span></b><br><br><i> - Napoleon Hill</i></div>
-<br><br><kbd>Last updated:Tue Aug 16 12:41:30 2022</kbd>
+<div align="center"><b><span>Speak when you are angry - and you'll make the best speech you'll ever regret.</span></b><br><br><i> - Laurence J. Peter</i></div>
+<br><br><kbd>Last updated:Wed Aug 17 12:51:54 2022</kbd>
