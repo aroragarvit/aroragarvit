@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>I would rather be a little nobody, then to be an evil somebody.</span></b><br><br><i> - Abraham Lincoln</i></div>
-<br><br><kbd>Last updated:Sat Aug 20 12:39:24 2022</kbd>
+<div align="center"><b><span>Do not wait for leaders; do it alone, person to person.</span></b><br><br><i> - Mother Teresa</i></div>
+<br><br><kbd>Last updated:Sun Aug 21 12:39:10 2022</kbd>
