@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You become a worrier by practicing worry. You become free of worry by practicing the opposite.</span></b><br><br><i> - Norman Vincent Peale</i></div>
-<br><br><kbd>Last updated:Fri Aug 26 12:46:25 2022</kbd>
+<div align="center"><b><span>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</span></b><br><br><i> - Nelson Mandela</i></div>
+<br><br><kbd>Last updated:Sat Aug 27 12:44:15 2022</kbd>
