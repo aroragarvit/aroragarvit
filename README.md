@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</span></b><br><br><i> - Nelson Mandela</i></div>
-<br><br><kbd>Last updated:Sat Aug 27 12:44:15 2022</kbd>
+<div align="center"><b><span>By changing nothing, nothing changes.</span></b><br><br><i> - Celestine Chua</i></div>
+<br><br><kbd>Last updated:Sun Aug 28 12:40:06 2022</kbd>
