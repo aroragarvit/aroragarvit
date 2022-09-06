@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence. </span></b><br><br><i> - George Washington</i></div>
-<br><br><kbd>Last updated:Mon Sep  5 12:47:22 2022</kbd>
+<div align="center"><b><span>We will outstretch the hand if you unclench your fist.</span></b><br><br><i> - Barack Obama</i></div>
+<br><br><kbd>Last updated:Tue Sep  6 12:51:08 2022</kbd>
