@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We will outstretch the hand if you unclench your fist.</span></b><br><br><i> - Barack Obama</i></div>
-<br><br><kbd>Last updated:Tue Sep  6 12:51:08 2022</kbd>
+<div align="center"><b><span>The destiny of man is in his own soul. </span></b><br><br><i> - Herodotus</i></div>
+<br><br><kbd>Last updated:Wed Sep  7 12:52:31 2022</kbd>
