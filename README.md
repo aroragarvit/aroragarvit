@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Great ones are willing to get burned time and again as they sharpen their swords in the fire.</span></b><br><br><i> - Josh Waitzkin</i></div>
-<br><br><kbd>Last updated:Thu Sep 15 12:56:18 2022</kbd>
+<div align="center"><b><span>Do every act of your life as if it were your last.</span></b><br><br><i> - Marcus Aurelius</i></div>
+<br><br><kbd>Last updated:Fri Sep 16 12:49:32 2022</kbd>
