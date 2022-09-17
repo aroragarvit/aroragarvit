@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Do every act of your life as if it were your last.</span></b><br><br><i> - Marcus Aurelius</i></div>
-<br><br><kbd>Last updated:Fri Sep 16 12:49:32 2022</kbd>
+<div align="center"><b><span>A diamond is a piece of charcoal that handled stress exceptionally well.</span></b><br><br><i> - Unknown</i></div>
+<br><br><kbd>Last updated:Sat Sep 17 12:44:44 2022</kbd>
