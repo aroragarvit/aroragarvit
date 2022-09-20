@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Do the difficult things while they are easy and do the great things while they are small.</span></b><br><br><i> - Lao Tzu</i></div>
-<br><br><kbd>Last updated:Mon Sep 19 12:54:41 2022</kbd>
+<div align="center"><b><span>Only when I fall do I get up again.</span></b><br><br><i> - Vincent van Gogh</i></div>
+<br><br><kbd>Last updated:Tue Sep 20 12:52:18 2022</kbd>
