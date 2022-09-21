@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Only when I fall do I get up again.</span></b><br><br><i> - Vincent van Gogh</i></div>
-<br><br><kbd>Last updated:Tue Sep 20 12:52:18 2022</kbd>
+<div align="center"><b><span>Don't be afraid to give up the good to go for the great.</span></b><br><br><i> - John D. Rockefeller</i></div>
+<br><br><kbd>Last updated:Wed Sep 21 12:56:07 2022</kbd>
