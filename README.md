@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Keep others in suspense, cultivate an air of unpredictability.</span></b><br><br><i> - Robert Greene</i></div>
-<br><br><kbd>Last updated:Sun Oct  2 12:49:41 2022</kbd>
+<div align="center"><b><span>Remember, today is the tomorrow you worried about yesterday.</span></b><br><br><i> - Dale Carnegie</i></div>
+<br><br><kbd>Last updated:Mon Oct  3 12:56:27 2022</kbd>
