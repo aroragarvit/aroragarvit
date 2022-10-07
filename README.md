@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>To be great is to be misunderstood.</span></b><br><br><i> - Ralph Waldo Emerson</i></div>
-<br><br><kbd>Last updated:Thu Oct  6 12:57:03 2022</kbd>
+<div align="center"><b><span>The more we value things, the less we value ourselves.  </span></b><br><br><i> - Bruce Lee</i></div>
+<br><br><kbd>Last updated:Fri Oct  7 12:58:18 2022</kbd>
