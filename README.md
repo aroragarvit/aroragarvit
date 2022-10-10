@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>People will forget what you said, people will forget what you did, but people will never forget how you made them feel.</span></b><br><br><i> - Maya Angelou</i></div>
-<br><br><kbd>Last updated:Sun Oct  9 12:49:24 2022</kbd>
+<div align="center"><b><span>Do the hard jobs first. The easy jobs will take care of themselves.</span></b><br><br><i> - Dale Carnegie</i></div>
+<br><br><kbd>Last updated:Mon Oct 10 12:59:46 2022</kbd>
