@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Happiness is only real, when shared.</span></b><br><br><i> - Christopher McCandless</i></div>
-<br><br><kbd>Last updated:Wed Oct 12 12:55:46 2022</kbd>
+<div align="center"><b><span>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</span></b><br><br><i> - Jon Kabat-Zinn</i></div>
+<br><br><kbd>Last updated:Thu Oct 13 13:00:57 2022</kbd>
