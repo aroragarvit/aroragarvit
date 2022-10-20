@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Whatever you do,strive to do it so well that no man living and no man dead and no man yet to be born could do it any better.</span></b><br><br><i> - Benjamin Mays</i></div>
-<br><br><kbd>Last updated:Wed Oct 19 13:00:48 2022</kbd>
+<div align="center"><b><span>If you're waiting until you feel talented enough to make it, you'll never make it.</span></b><br><br><i> - Criss Jami</i></div>
+<br><br><kbd>Last updated:Thu Oct 20 12:59:22 2022</kbd>
