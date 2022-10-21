@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If you're waiting until you feel talented enough to make it, you'll never make it.</span></b><br><br><i> - Criss Jami</i></div>
-<br><br><kbd>Last updated:Thu Oct 20 12:59:22 2022</kbd>
+<div align="center"><b><span>There is no absolute success in the world, only constant progress.</span></b><br><br><i> - Jonathan Swift</i></div>
+<br><br><kbd>Last updated:Fri Oct 21 12:57:33 2022</kbd>
