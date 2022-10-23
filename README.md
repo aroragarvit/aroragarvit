@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Where there is no struggle, there is no strength. </span></b><br><br><i> - Oprah Winfrey</i></div>
-<br><br><kbd>Last updated:Sat Oct 22 12:51:17 2022</kbd>
+<div align="center"><b><span>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </span></b><br><br><i> - Jack London</i></div>
+<br><br><kbd>Last updated:Sun Oct 23 12:52:32 2022</kbd>
