@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Believe in your infinite potential. Your only limitations are those you set upon yourself.</span></b><br><br><i> - Roy T. Bennett</i></div>
-<br><br><kbd>Last updated:Mon Oct 31 12:54:41 2022</kbd>
+<div align="center"><b><span>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </span></b><br><br><i> - Jack Kerouac</i></div>
+<br><br><kbd>Last updated:Tue Nov  1 12:58:04 2022</kbd>
