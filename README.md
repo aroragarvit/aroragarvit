@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Anyone who has ever made anything of importance was disciplined.</span></b><br><br><i> - Andrew Hendrixson</i></div>
-<br><br><kbd>Last updated:Sat Nov  5 12:40:14 2022</kbd>
+<div align="center"><b><span>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</span></b><br><br><i> - Eckhart Tolle</i></div>
+<br><br><kbd>Last updated:Sun Nov  6 12:41:46 2022</kbd>
