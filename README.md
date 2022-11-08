@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>He who knows best knows how little he knows.</span></b><br><br><i> - Thomas Jefferson</i></div>
-<br><br><kbd>Last updated:Mon Nov  7 12:52:26 2022</kbd>
+<div align="center"><b><span>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</span></b><br><br><i> - Jon Kabat-Zinn</i></div>
+<br><br><kbd>Last updated:Tue Nov  8 12:53:10 2022</kbd>
