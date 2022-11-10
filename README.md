@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It is what we make out of what we have, not what we are given, that separates one person from another.</span></b><br><br><i> - Nelson Mandela</i></div>
-<br><br><kbd>Last updated:Wed Nov  9 12:53:45 2022</kbd>
+<div align="center"><b><span>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Thu Nov 10 12:54:02 2022</kbd>
