@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</span></b><br><br><i> - Brian Tracy</i></div>
-<br><br><kbd>Last updated:Thu Nov 10 12:54:02 2022</kbd>
+<div align="center"><b><span>A hopeless man is a very desperate and dangerous man, almost a dead man.</span></b><br><br><i> - Robert F. Kennedy</i></div>
+<br><br><kbd>Last updated:Fri Nov 11 12:52:29 2022</kbd>
