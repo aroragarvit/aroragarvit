@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution.</span></b><br><br><i> - Kahlil Gibran</i></div>
-<br><br><kbd>Last updated:Sat Nov 12 12:41:02 2022</kbd>
+<div align="center"><b><span>The best answer to anger is silence.</span></b><br><br><i> - Marcus Aurelius</i></div>
+<br><br><kbd>Last updated:Sun Nov 13 12:43:18 2022</kbd>
