@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Before anything else, preparation is the key to success.</span></b><br><br><i> - Alexander Graham Bell</i></div>
-<br><br><kbd>Last updated:Fri Nov 25 12:40:27 2022</kbd>
+<div align="center"><b><span>The soul without imagination is what an observatory would be without a telescope.</span></b><br><br><i> - Henry Ward Beecher</i></div>
+<br><br><kbd>Last updated:Sat Nov 26 12:36:45 2022</kbd>
