@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Muddy water is best cleared by leaving it alone.</span></b><br><br><i> - Alan Watts</i></div>
-<br><br><kbd>Last updated:Sun Dec 25 12:33:32 2022</kbd>
+<div align="center"><b><span>Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.</span></b><br><br><i> - Carl Bard</i></div>
+<br><br><kbd>Last updated:Mon Dec 26 12:34:33 2022</kbd>
