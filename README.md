@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Don't let anyone define you. You define yourself.</span></b><br><br><i> - Billie Jean King</i></div>
-<br><br><kbd>Last updated:Thu Dec 29 12:34:34 2022</kbd>
+<div align="center"><b><span>A Quitter never wins - and - a Winner never quits.</span></b><br><br><i> - Napoleon Hill</i></div>
+<br><br><kbd>Last updated:Fri Dec 30 12:33:38 2022</kbd>
