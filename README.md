@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When the world pushes you to your knees, you're in the perfect position to pray.</span></b><br><br><i> - Rumi</i></div>
-<br><br><kbd>Last updated:Thu Jan  5 12:37:18 2023</kbd>
+<div align="center"><b><span>Most people spend more time and energy going around problems than in trying to solve them. </span></b><br><br><i> - Henry Ford</i></div>
+<br><br><kbd>Last updated:Fri Jan  6 12:36:19 2023</kbd>
