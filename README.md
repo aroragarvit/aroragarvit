@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Most people spend more time and energy going around problems than in trying to solve them. </span></b><br><br><i> - Henry Ford</i></div>
-<br><br><kbd>Last updated:Fri Jan  6 12:36:19 2023</kbd>
+<div align="center"><b><span>People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</span></b><br><br><i> - Dr. Seuss</i></div>
+<br><br><kbd>Last updated:Sat Jan  7 12:33:09 2023</kbd>
