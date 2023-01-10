@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The most creative act you will ever undertake is the act of creating yourself.</span></b><br><br><i> - Deepak Chopra</i></div>
-<br><br><kbd>Last updated:Mon Jan  9 12:38:07 2023</kbd>
+<div align="center"><b><span>A man who dares to waste one hour of time has not discovered the value of life.</span></b><br><br><i> - Charles Darwin</i></div>
+<br><br><kbd>Last updated:Tue Jan 10 12:38:30 2023</kbd>
