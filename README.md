@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You need to be doing fewer things for more effect instead of doing more things with side effects.</span></b><br><br><i> - Gary Keller</i></div>
-<br><br><kbd>Last updated:Sun Jan 22 12:34:07 2023</kbd>
+<div align="center"><b><span>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</span></b><br><br><i> - Robert Greene</i></div>
+<br><br><kbd>Last updated:Mon Jan 23 12:37:28 2023</kbd>
