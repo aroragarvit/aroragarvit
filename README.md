@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</span></b><br><br><i> - Josh Waitzkin</i></div>
-<br><br><kbd>Last updated:Tue Jan 24 12:38:21 2023</kbd>
+<div align="center"><b><span>How you think is as important as as what you think.</span></b><br><br><i> - Unknown</i></div>
+<br><br><kbd>Last updated:Wed Jan 25 12:38:25 2023</kbd>
