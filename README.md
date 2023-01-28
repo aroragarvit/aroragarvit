@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
-<br><br><kbd>Last updated:Fri Jan 27 12:35:58 2023</kbd>
+<div align="center"><b><span>The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</span></b><br><br><i> - Steve Maraboli</i></div>
+<br><br><kbd>Last updated:Sat Jan 28 12:33:43 2023</kbd>
