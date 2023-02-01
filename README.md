@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Know yourself and you will win all battles.</span></b><br><br><i> - Sun Tzu</i></div>
-<br><br><kbd>Last updated:Tue Jan 31 12:37:22 2023</kbd>
+<div align="center"><b><span>What you get by achieving your goals is not as important as what you become by achieving your goals.</span></b><br><br><i> - Henry David Thoreau</i></div>
+<br><br><kbd>Last updated:Wed Feb  1 12:38:39 2023</kbd>
