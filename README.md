@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>No one can hurt you without your consent.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
-<br><br><kbd>Last updated:Thu Feb  2 12:39:33 2023</kbd>
+<div align="center"><b><span>No one ever said life was fair. Just Eventful.</span></b><br><br><i> - Carol Burnett</i></div>
+<br><br><kbd>Last updated:Fri Feb  3 12:36:41 2023</kbd>
