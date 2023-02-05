@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The more knowledge you have, the more you're free to rely on your instincts.</span></b><br><br><i> - Arnold Schwarzenegger</i></div>
-<br><br><kbd>Last updated:Sat Feb  4 12:33:53 2023</kbd>
+<div align="center"><b><span>There is a wisdom of the head, and there is a wisdom of the heart.</span></b><br><br><i> - Charles Dickens</i></div>
+<br><br><kbd>Last updated:Sun Feb  5 12:34:00 2023</kbd>
