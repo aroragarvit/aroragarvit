@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>There is a wisdom of the head, and there is a wisdom of the heart.</span></b><br><br><i> - Charles Dickens</i></div>
-<br><br><kbd>Last updated:Sun Feb  5 12:34:00 2023</kbd>
+<div align="center"><b><span>Be happy now, without reason - or you never will be at all.</span></b><br><br><i> - Dan Millman</i></div>
+<br><br><kbd>Last updated:Mon Feb  6 12:38:34 2023</kbd>
