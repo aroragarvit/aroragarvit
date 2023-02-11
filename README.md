@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>All great truths begin as blasphemies.</span></b><br><br><i> - George Bernard Shaw</i></div>
-<br><br><kbd>Last updated:Fri Feb 10 12:37:17 2023</kbd>
+<div align="center"><b><span>Man's character is his fate.</span></b><br><br><i> - Heraclitus</i></div>
+<br><br><kbd>Last updated:Sat Feb 11 12:34:42 2023</kbd>
