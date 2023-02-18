@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Remember that sometimes not getting what you want is a wonderful stroke of luck.</span></b><br><br><i> - Dalai Lama</i></div>
-<br><br><kbd>Last updated:Fri Feb 17 12:37:37 2023</kbd>
+<div align="center"><b><span>Rudeness is the weak man's imitation of strength.</span></b><br><br><i> - Eric Hoffer</i></div>
+<br><br><kbd>Last updated:Sat Feb 18 12:35:20 2023</kbd>
