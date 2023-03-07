@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Admire as much as you can. Most people do not admire enough.</span></b><br><br><i> - Vincent van Gogh</i></div>
-<br><br><kbd>Last updated:Mon Mar  6 12:39:59 2023</kbd>
+<div align="center"><b><span>The world doesn't always give you want, but it often gives you what you need.</span></b><br><br><i> - Naval Ravikant</i></div>
+<br><br><kbd>Last updated:Tue Mar  7 12:40:09 2023</kbd>
