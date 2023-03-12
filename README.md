@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We cannot change anything unless we accept it.</span></b><br><br><i> - Carl Jung</i></div>
-<br><br><kbd>Last updated:Sat Mar 11 12:34:12 2023</kbd>
+<div align="center"><b><span>Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.</span></b><br><br><i> - Criss Jami</i></div>
+<br><br><kbd>Last updated:Sun Mar 12 12:34:39 2023</kbd>
