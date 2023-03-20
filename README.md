@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Be fascinated instead of frustrated.</span></b><br><br><i> - Jim Rohn</i></div>
-<br><br><kbd>Last updated:Sun Mar 19 12:35:09 2023</kbd>
+<div align="center"><b><span>Simple words, repeated daily, can change your life.</span></b><br><br><i> - Maxime Lagace</i></div>
+<br><br><kbd>Last updated:Mon Mar 20 12:38:53 2023</kbd>
