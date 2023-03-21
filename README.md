@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Simple words, repeated daily, can change your life.</span></b><br><br><i> - Maxime Lagace</i></div>
-<br><br><kbd>Last updated:Mon Mar 20 12:38:53 2023</kbd>
+<div align="center"><b><span>Life is what you make it. Always has been, always will be.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
+<br><br><kbd>Last updated:Tue Mar 21 12:33:14 2023</kbd>
