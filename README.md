@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life is what you make it. Always has been, always will be.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
-<br><br><kbd>Last updated:Tue Mar 21 12:33:14 2023</kbd>
+<div align="center"><b><span>Excellence is not an exception, it is a prevailing attitude.</span></b><br><br><i> - Colin Powell</i></div>
+<br><br><kbd>Last updated:Wed Mar 22 12:36:04 2023</kbd>
