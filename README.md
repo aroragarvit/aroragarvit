@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You are now, and you do become, what you think about.</span></b><br><br><i> - Earl Nightingale</i></div>
-<br><br><kbd>Last updated:Thu Mar 23 12:37:38 2023</kbd>
+<div align="center"><b><span>It's easier to lose than to win.  </span></b><br><br><i> - Wayne Gretzky</i></div>
+<br><br><kbd>Last updated:Fri Mar 24 12:33:39 2023</kbd>
