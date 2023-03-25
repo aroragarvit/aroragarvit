@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It's easier to lose than to win.  </span></b><br><br><i> - Wayne Gretzky</i></div>
-<br><br><kbd>Last updated:Fri Mar 24 12:33:39 2023</kbd>
+<div align="center"><b><span>Everything you've ever wanted is on the other side of fear.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Sat Mar 25 12:32:35 2023</kbd>
