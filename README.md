@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>I can live without money, but I cannot live without love.</span></b><br><br><i> - Judy Garland</i></div>
-<br><br><kbd>Last updated:Tue Apr 11 12:34:41 2023</kbd>
+<div align="center"><b><span>Enjoy life. There's plenty of time to be dead.</span></b><br><br><i> - Hans Christian Andersen</i></div>
+<br><br><kbd>Last updated:Wed Apr 12 12:34:54 2023</kbd>
