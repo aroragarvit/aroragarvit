@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Truth is such a rare thing, it is delighted to tell it.</span></b><br><br><i> - Emily Dickinson</i></div>
-<br><br><kbd>Last updated:Sat Apr 15 12:31:51 2023</kbd>
+<div align="center"><b><span>Respect was invented to cover the empty place where love should be.</span></b><br><br><i> - Leo Tolstoy</i></div>
+<br><br><kbd>Last updated:Sun Apr 16 12:32:16 2023</kbd>
